@@ -1,0 +1,14 @@
+{
+  "name": "puppateer-screenshot",
+  "version": "1.0.0",
+  "description": "The Google Cloud function that can take screenshots of websites.",
+  "main": "index.js",
+  "repository": "https://github.com/umuthopeyildirim/puppateer-screenshot",
+  "author": "Umut Hope YILDIRIM <info@umutyildirim.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@google-cloud/storage": "^6.7.0",
+    "puppeteer": "^19.2.2"
+  }
+}
